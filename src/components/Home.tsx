@@ -9,10 +9,11 @@ const Home = () => {
           style={{ lineHeight: "1" }}
           className=" pb-14 text-[600%] xs:text-[400%]"
         >
-          Software <br />
+          Software
+          <br />
           <span>Company</span>
         </h1>
-        <h4 className=" sm:text-[2.2rem] xs:text-[1.5rem]">
+        <h4 className=" sm:text-[2.2rem] xs:text-[1.5rem] text-[2.2rem] text-[#9B9B9B]">
           Expertise. Commitment. Value.
         </h4>
       </div>
